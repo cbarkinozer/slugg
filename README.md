@@ -1,0 +1,2 @@
+# slugg
+Zoom meeting assistant.
