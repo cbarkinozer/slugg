@@ -7,3 +7,6 @@ torch==2.7.1
 torchaudio==2.7.1
 pyannote.audio==3.3.2
 reportlab==4.4.2
+transformers==4.53.1
+accelerate==1.8.1
+hf-xet==1.1.5

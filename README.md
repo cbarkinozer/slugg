@@ -43,7 +43,7 @@ Slugg uses a two-part architecture to function within Zoom's security constraint
 
 | Area | Technology |
 | :--- | :--- |
-| **Backend** | [Python](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/), [Uvicorn](https://www.uvicorn.org/) |
+| **Backend** | [Python 3.11 (3.13 does not work)](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/), [Uvicorn](https://www.uvicorn.org/) |
 | **AI (On-Device)** | [pyannote.audio](https://github.com/pyannote/pyannote-audio) (Diarization), [faster-whisper](https://github.com/guillaumekln/faster-whisper) (Transcription) |
 | **AI (Cloud)** | [Groq API](https://groq.com/) (LLM for Summarization) |
 | **PDF** | [ReportLab](https://www.reportlab.com/) |
@@ -159,6 +159,7 @@ Slugg uses a two-part architecture to function within Zoom's security constraint
 
 ## Sample Report (Mock-up)
 
+Toplantı mock'u ses kaydı: https://drive.google.com/file/d/13olsfw-FGLR0NHqCLiWVme5ylPqGxlBK/view?usp=sharing  
 
 ### **Toplantı Analiz Raporu**
 ## **📜 Örnek Rapor: "Software 3.0" Konsept Tartışması**
